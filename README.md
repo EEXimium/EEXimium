@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%There!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%There!&animation=fadeIn&height=200)
 
 
 <!--
