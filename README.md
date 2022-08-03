@@ -5,9 +5,7 @@
 
 🌱 And I'm a student at **42 Istanbul**
 
-42 Stats
------
-[![yataseve's 42 stats](https://badge42.vercel.app/api/v2/cl63d3av7000609l8ffqyhkze/stats?cursusId=21&coalitionId=230)](https://github.com/JaeSeoKim/badge42)
+
 
 
 <!--
