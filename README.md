@@ -3,7 +3,7 @@
 -----
 🌱 I'm studying Computer Science at **Işık University**
 
-🌱 And I'm a student at **42 Istanbul**
+🌱 Old **42 Istanbul** student
 
 
 
