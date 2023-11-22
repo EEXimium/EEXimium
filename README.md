@@ -5,7 +5,7 @@
 
 🌱 Old **42 Istanbul** student
 
-🌱 Participant of **Google Game and Application Academy 2023**
+🌱 Participant and Finalist of **Google Game and Application Academy 2023**
 
 
 
